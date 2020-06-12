@@ -1,0 +1,10 @@
+Exploring the neighbourhoods in Hong Kong
+
+Introduction/Business Problem
+Hong Kong is a metropolitan area and special administrative region of the People's Republic of China in the eastern Pearl River Delta by the South China Sea. With over 7.5 million people of various nationalities, in a 1,104-square-kilometre (426 sq mi) territory, Hong Kong is one of the most densely populated places in the world.  
+Hong Kong is a popular financial hub of Asia, continues to attract large influx of business investors and multinational corporations due to its strategic location, highly-developed service industry and high economic freedom. Despite being one of the richest region in the world, Hong Kong also suffers from serious income disparity between different districts.  
+For many business investors who are new to Hong Kong, they may be unsure of where to set up their businesses in Hong Kong. After all, Hong Kong consists of 3 sprawling regions and 18 districts, and each district has its own characteristics, which may or may not be beneficial for a particular business.  
+In this project, I will try to answer the above questions by analysing the income, land price, accessibility of facilities and accessibility via public transport of these districts. 
+
+Data Required 
+For this project, I will require the median monthly household income by district in 2018 (https://www.statistics.gov.hk/pub/B11303012018AN18B0100.pdf), the average price of rental for offices in Hong Kong in 2018(https://content.knightfrank.com/research/676/documents/en/hong-kong-monthly-november-2018-6019.pdf) and foursquare API to determine the facilities and public transport of these districts. 
